@@ -21,7 +21,7 @@ I love learning new things (even those not connected to programming), sports (fo
 
 Besides:
 
-<img src="https://img.icons8.com/doodle/256/000000/business.png" width="16px" />&emsp;I work in [Monterail](monterail.com) - company placed in Wrocław, Poland
+<img src="https://img.icons8.com/doodle/256/000000/business.png" width="16px" />&emsp;I work in [Infermedica](infermedica.com) - company placed in Wrocław, Poland
 
 <img src="https://img.icons8.com/doodle/256/000000/learning.png" width="16px" />&emsp;I’m currently learning Vue 3 and want to learn Flutter in near future!
 
