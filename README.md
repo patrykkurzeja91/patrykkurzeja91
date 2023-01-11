@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Patrick and I am a JavaScript developer. I used to be a civil engineer but decided to change my career... and here I am, creating websites and apps in Vue and React!
+My name is Patrick and I am a JavaScript developer. I used to be a civil engineer but decided to change my career... and here I am, creating websites and apps in Vue and React, I like React but I really love to using Vue, especially Vue3 and Nuxt 3.
+
+Besides I am familiar with TypeScript, SSR and SSG, RestApi, GraphQL, TailwindCSS and many other modern dev tools :) 
 
 I love learning new things (even those not connected to programming), sports (football, snowboarding, wall climbing, crossfit), fantasy and crime books, playing video games and of course speciality coffee and craft beers.
 
@@ -23,7 +25,7 @@ Besides:
 
 <img src="https://img.icons8.com/doodle/256/000000/business.png" width="16px" />&emsp;I work in [Infermedica](infermedica.com) - company placed in Wrocław, Poland
 
-<img src="https://img.icons8.com/doodle/256/000000/learning.png" width="16px" />&emsp;I’m currently learning Vue 3 and want to learn Flutter in near future!
+<img src="https://img.icons8.com/doodle/256/000000/learning.png" width="16px" />&emsp;Im thinking of learning some mobile development so Swift and  Flutter are my goals for the nearest future!
 
 <img src="https://img.icons8.com/doodle/256/000000/help.png" width="16px" />&emsp;Ask me about Vue or Nuxt - I would love to help
 
